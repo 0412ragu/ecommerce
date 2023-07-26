@@ -1,0 +1,12 @@
+.head{
+    color: rgba(255,255,255,0.876);
+    font-size: 50px;
+    background-color: #3636aa;
+}
+
+.underline{
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    margin-top: 8px;
+}
